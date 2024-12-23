@@ -57,10 +57,10 @@
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mihirsathvara)
 <img src="https://tryhackme-badges.s3.amazonaws.com/TracerX.png" alt="TryHackMe" />
-[![TryHackMe](https://tryhackme.com/r/p/TracerX)
+
 </details>
 
-<img src="Images/TracerXploit.png" alt="TryHackMe">
+
 
 
  <em> 😊<b>  I enjoy making new connections ,</b> so feel free to <b>reach out if you'd like to chat further!</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></em>
