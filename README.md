@@ -56,8 +56,7 @@
 <summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>
     
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mihirsathvara)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3340466" style='border:none;'></iframe>
-
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3340466)](https://tryhackme.com/r/p/TracerX)
 </details>
 
 <img src="Images/TracerXploit.png" alt="TryHackMe">
