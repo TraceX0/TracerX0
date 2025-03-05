@@ -6,7 +6,7 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Future%20Cyber%20Security%20Professional;Learning%20Backend%20Development;2%2B%20Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=25" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Penetration%20Tester%20Bug%20Hunter&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=25" align="center" /></a>
 </p>
   
  <!--🌐💬Social Media-->   
@@ -19,7 +19,7 @@
       <a href="https://x.com/mihirsathvara03"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
     </td>
     <td align="center" width="60">
-      <a href="mihirsathvara32@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
+      <a href="mihirsathvara56@gmail.com"><img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true" width="80"></a>
     </td>
     
 <!-- <td align="center" width="60">
@@ -36,27 +36,21 @@
 
 <!--💫 About Me-->
 ### ✔️ I'm currently learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- CyberSecurity & Penetration tester 🕵️‍♂️
-- Backend Development 🛠️
-- Cloud Computing ☁️
+- CyberSecurity & Penetration tester🕵️‍♂️
   
 ### 💻 I'm working on
 - My portfolio website 💼
 - Festivity Flippers (My StartUp) 🚀
 
 ### 💭 Ask me about
-- Hacking 🕵️‍♂️ & Development 👨‍💻
+  - Hacking 🕵️‍♂️ & Hunting 👨‍💻
 - Anything else... ❓
 
-### ⚡ Fun fact 
-- 🐱‍💻 My GitHub codes = 20% 🙋‍♂️ Me + 40% 💡 StackOverflow + 5% 🔍 Google + 15% 🤖 ChatGPT + 20%
 
 <!--🏆Competitive Coding Profile-->
 <details>
-<summary><h2 align='center'>🏆Competitive Coding Profile</h2></summary>
-    
-[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mihirsathvara)
-<br>
+<summary><h2 align='center'>🏆CTF Platform Profile</h2></summary>
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/TracerX.png" alt="TryHackMe" />
 
 </details>
