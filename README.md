@@ -6,7 +6,7 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center">
   <a href="https://github.com/Hunterdii/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Penetration%20Tester%20Bug%20Hunter&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=25" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Penetration%20Tester%20;Bug%20Hunter&font=Shantell+Sans&size=21%20Code&center=true&width=440&height=45&color=9b59b6 &vCenter=true&pause=1000&size=25" align="center" /></a>
 </p>
   
  <!--🌐💬Social Media-->   
